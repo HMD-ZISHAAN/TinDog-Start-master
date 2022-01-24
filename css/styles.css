@@ -1,0 +1,167 @@
+ /********************* tag selector*********************/
+h1{
+  font-family: "Montserrat";
+  font-size: 3.5em;
+  font-weight: bold;
+  line-height: 1.5;
+
+}
+h3{
+  font-family: Montserrat;
+  font-weight: bold;
+
+}
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.75rem;
+  line-height: 1.75;
+text-align: center;
+}
+p{
+  color: gray;
+}
+/************************** class selector**************/
+.container-fluid{
+  padding: 3% 15%;
+}
+  /******************* navigationn bar********************/
+.container-fluid{
+  padding: 3% 15% 7%;
+
+}
+
+.nav-brand{
+font-family: 'Ubuntu Condensed', sans-serif;
+font-size: 2.5rem;
+font-weight: bold;
+color: #ffff;
+ad
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light"
+}
+
+ /* download button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+/* title image */
+
+.title-image
+{
+   width: 60%;
+   transform: rotate(20deg);
+   position: absolute;
+   right: 30%;
+   top: 30%;
+}
+
+
+    /* id selector */
+#title{
+
+  background-color: #ff4c68;
+  color: #ffff;
+}
+/******** feature section********/
+/*tag*/
+
+
+/* class selector  */
+
+.feature-box{
+  padding: 5%;
+  text-align: center;
+
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+
+}
+.icon:hover{
+  color: #ff4c68;
+
+}
+
+/* id selector  */
+#features{
+  background-color: #fff;
+  padding: 7% 15%;
+  position: relative;
+
+}
+
+/***** Testimonials section*****/
+/* tag*/
+
+
+/*class*/
+.testimonials-image{
+  border-radius:100%;
+  margin: 25px;
+  width: 10%;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+/** ids*/
+#testimonials{
+  background-color: #ef8172;
+  color: #ffff;
+
+  text-align: center;
+
+
+}
+/* press section*/
+/*classes*/
+.perss-logo{
+  width: 15%;
+
+}
+
+
+/*id's*/
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+/****************************pricing section ******************/
+
+
+
+
+/*********************class selector*********************/
+
+.card{
+  padding: 20px;
+  border-radius: 5%;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+
+
+/*****************************id selector********************/
+#pricing{
+  padding:100px;
+  text-align: center;
+}
